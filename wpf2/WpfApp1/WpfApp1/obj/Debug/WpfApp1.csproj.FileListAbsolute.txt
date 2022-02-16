@@ -1,0 +1,50 @@
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\3292810-17\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.dll
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.pdb
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.xml
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\bin\Debug\LiveCharts.Wpf.xml
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\UserControl1.g.cs
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\UserControl1.baml
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\Кузнецов Задания\wpf2\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
