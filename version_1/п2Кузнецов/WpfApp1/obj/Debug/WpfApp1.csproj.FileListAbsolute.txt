@@ -1,0 +1,5 @@
+E:\Кузнецов Задания\п2Кузнецов\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\Кузнецов Задания\п2Кузнецов\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\Кузнецов Задания\п2Кузнецов\WpfApp1\obj\Debug\App.g.cs
+E:\Кузнецов Задания\п2Кузнецов\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\Кузнецов Задания\п2Кузнецов\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
